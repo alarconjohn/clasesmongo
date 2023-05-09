@@ -1,2 +1,42 @@
-use("sample_training")
+/*use("sample_training")
 db.zips.find({state:"NY"})
+
+use("Pulsar")
+db.Catalogo_de_ventas.find()
+
+use("Pulsar")
+db.Catalogo_de_ventas.insertOne({"nombre" : "ktm 125","categoria" : "carretera","colores" : "naranja-blanco","precio" : "15.990.000 $","modelio" : "2012"})
+
+use("Pulsar")
+db.Catalogo_de_ventas.find()
+
+use("Pulsar")
+db.Catalogo_de_ven.deleteOne({"nombre" : "ktm 125"})
+
+use("Pulsar")
+db.Catalogo_de_ventas.find()
+
+use("Pulsar")
+db.Catalogo_de_ven.deleteMany({"nombre" : "ktm 125"})
+
+use("Pulsar")
+db.Catalogo_de_ven.remove({"nombre" : "ktm 125"})
+
+use("Pulsar")
+db.Catalogo_de_ventas.find({nombre : "ktm 125"})
+
+use("Pulsar")
+db.Catalogo_de_ven.find()*/
+
+/*use("Pulsar")
+db.Catalogo_de_ventas.insertOne({"nombre" : "ktm 125","categoria" : "carretera","colores" : "naranja-blanco","precio" : "15.990.000 $","modelio" : "2012"})*/
+
+/*use("Pulsar")
+db.Catalogo_de_ventas.deleteMany({ nombre : "ktm 125"})*/
+
+/*use("Pulsar")
+db.Catalogo_de_ventas.find()*/
+
+use("Pulsar")
+db.Catalogo_de_ventas.find()
+
